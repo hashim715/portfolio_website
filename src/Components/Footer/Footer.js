@@ -3,7 +3,6 @@ import React from "react";
 import "./Footer.css";
 import { TbBrandGithub } from "react-icons/tb";
 import { RiLinkedinFill } from "react-icons/ri";
-import { AiOutlineInstagram } from "react-icons/ai";
 
 const Footer = () => {
   return (
