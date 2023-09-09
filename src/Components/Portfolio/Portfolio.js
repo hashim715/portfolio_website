@@ -16,11 +16,6 @@ const Portfolio = () => {
                 <img src={image} alt={title} />
               </div>
               <h3>{title}</h3>
-              <div className="portfolio__cta">
-                <a href={demo} target="_blank" className="btn" rel="noreferrer">
-                  Live Demo
-                </a>
-              </div>
             </article>
           );
         })}
