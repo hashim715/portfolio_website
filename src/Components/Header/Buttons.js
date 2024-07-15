@@ -1,5 +1,4 @@
 import React from "react";
-import CV from "../../assets/hashim_cv.pdf";
 
 const Buttons = () => {
   return (
